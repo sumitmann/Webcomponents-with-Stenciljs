@@ -1,2 +1,2 @@
 # Webcomponents with Stenciljs
- This repo includes webcomponent excercise with and without stenciljs
+ This repo includes webcomponent excercises with and without stenciljs
